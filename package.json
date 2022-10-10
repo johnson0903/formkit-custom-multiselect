@@ -1,0 +1,18 @@
+{
+  "name": "custom-formkit",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@formkit/vue": "^1.0.0-beta.11",
+    "vue": "^3.2.38",
+    "vue-multiselect": "^3.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
